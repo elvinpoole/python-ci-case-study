@@ -8,6 +8,15 @@ This repository is a small Python interview exercise focused on reading unfamili
 python -m pip install -e .[dev]
 ```
 
+To test the full GitHub Actions and deployment path, you will likely need your own GitHub account.
+
+You may either:
+
+- clone this repository and work locally
+- fork it into your own GitHub account and work there
+
+Use whichever approach you prefer.
+
 ## Task
 
 You are given a small Python package containing astronomy-flavoured utility functions and a basic GitHub Actions workflow.
